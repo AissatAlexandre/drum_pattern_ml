@@ -1,0 +1,29 @@
+# environment
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# data (important)
+data/raw/
+data/processed/
+
+# models
+models/
+*.pkl
+*.joblib
+
+# logs
+logs/
+*.log
+
+# system files
+.DS_Store
+
+# notebooks
+.ipynb_checkpoints/
+
+# misc
+.cache/
+*.tmp
